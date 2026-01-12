@@ -1,9 +1,10 @@
 <h1>Hi, I'm Atikah! 
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
-- <b>Exploratory data analysis (Excel/ Powerpoint)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
+<h2>👨‍💻 Data Analysis Projects:</h2>
+
+- <b>Airlines Booking Behavior and Route Performance Insight</b>
+  - [Country-driven analysis of booking behaviors and route performance across five markets.](https://github.com/AtikahNadia/Airlines-Booking-Behavior-and-Route-Performance-Insights/blob/main/README.md)
 
 <h2>📜 Certifications:</h2>
 <h2> 🤳 Connect with me:</h2>
@@ -13,4 +14,5 @@
 
 [linkedin]: https://linkedin.com/in/atikah-kamaruddin
 <!--
+
 
