@@ -10,8 +10,8 @@
 
 <h2>📜 Certifications:</h2>
 
-- [Google Data Analytics](https://coursera.org/verify/professional-cert/7ABFE0RAEOA3)
-- [Udemy-Data Storytelling and Data Visualization Mastery](https://udemy-certificate.s3.amazonaws.com/pdf/UC-dc5d941b-05af-4338-aa5b-4cda487432bd.pdf)
+- [Google Data Analytics (Google)](https://coursera.org/verify/professional-cert/7ABFE0RAEOA3)
+- [Data Storytelling and Data Visualization Mastery (Udemy)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-dc5d941b-05af-4338-aa5b-4cda487432bd.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
