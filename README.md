@@ -6,7 +6,13 @@
 - <b>Airlines Booking Behavior and Route Performance Insight</b>
   - [Country-driven analysis of booking behaviors and route performance across five markets.](https://github.com/AtikahNadia/Airlines-Booking-Behavior-and-Route-Performance-Insights/blob/main/README.md)
 
+
+
 <h2>📜 Certifications:</h2>
+
+- [Google Data Analytics](https://coursera.org/verify/professional-cert/7ABFE0RAEOA3)
+- [Udemy-Data Storytelling and Data Visualization Mastery](https://udemy-certificate.s3.amazonaws.com/pdf/UC-dc5d941b-05af-4338-aa5b-4cda487432bd.pdf)
+
 <h2> 🤳 Connect with me:</h2>
 
 
