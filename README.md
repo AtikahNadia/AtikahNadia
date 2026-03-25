@@ -7,7 +7,7 @@
 
 <b>Project 1:<b> [<b>Airlines Booking Behavior and Route Performance Insight</b>](https://github.com/AtikahNadia/Airlines-Booking-Behavior-and-Route-Performance-Insights/blob/main/README.md)
 
-<b>Project 2:<b> [<b>Power BI Business Dashboards In Progress...</b>]
+<b>Project 2:<b> <b>Power BI Business Dashboards - In Progress...</b>
 
 
 <h2>📜 Certifications:</h2>
