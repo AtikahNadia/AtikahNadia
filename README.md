@@ -1,6 +1,6 @@
 <h1>Hi, I'm Atikah! 
 
-<sub><sup>Welcome to my data analysis portfolio! This repository features a collection of end-to-end projects focused on transforming raw data into actionable business insights through rigorous cleaning, strategic data modelling and interactive Power BI solutions.</sup></sub>
+### Welcome to my data analysis portfolio! This repository features a collection of end-to-end projects focused on transforming raw data into actionable business insights through rigorous cleaning, strategic data modelling and interactive Power BI solutions.
 
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
