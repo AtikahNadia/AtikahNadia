@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-<b>Project 1:<b> <b>Airlines Booking Behavior and Route Performance Insight</b>
+<b>Project 1:<b> [<b>Airlines Booking Behavior and Route Performance Insight</b>]
 (https://github.com/AtikahNadia/Airlines-Booking-Behavior-and-Route-Performance-Insights/blob/main/README.md)
 
 
