@@ -9,7 +9,7 @@
 
 
 <h2>📜 Certifications:</h2>
-
+- [PeopleCert Data Science Foundation and Analyst (PeopleCert)](https://www.peoplecert.org/public-profile?ed=XCHu3ZqUTNLq%2f8FqKCvgCrV0W68%2f9KwM)
 - [Google Data Analytics (Google)](https://coursera.org/verify/professional-cert/7ABFE0RAEOA3)
 - [Data Storytelling and Data Visualization Mastery (Udemy)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-dc5d941b-05af-4338-aa5b-4cda487432bd.pdf)
 
