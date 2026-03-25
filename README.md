@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>Airlines Booking Behavior and Route Performance Insight</b>
+1. <b>Airlines Booking Behavior and Route Performance Insight</b>
   - [Country-driven analysis of booking behaviors and route performance across five markets.](https://github.com/AtikahNadia/Airlines-Booking-Behavior-and-Route-Performance-Insights/blob/main/README.md)
 
 
