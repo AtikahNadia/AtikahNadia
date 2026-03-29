@@ -8,7 +8,7 @@
 <b>Project 1:<b> [<b>Airlines Booking Behavior and Route Performance Insight</b>](https://github.com/AtikahNadia/Airlines-Booking-Behavior-and-Route-Performance-Insights/blob/main/README.md)
 
 <b>Project 2:<b> [<b>Power BI Business Dashboards</b>](https://github.com/AtikahNadia/Power-BI-Business-Dashboards)
-
+*Note: Created as a guided capstone exercise during Power BI technical training to showcase end-to-end report building capabilities.
 
 <h2>📜 Certifications:</h2>
 
