@@ -10,7 +10,7 @@
 <b>Project 2:<b> [<b>Power BI Business Dashboards</b>](https://github.com/AtikahNadia/Power-BI-Business-Dashboards)
 *Note: Created as a guided capstone exercise during Power BI technical training to showcase end-to-end report building capabilities.
 
-<b>Project 3:<b> <b>Healthcare Expenditure & Drug Utilization Dashboard - In Progress...<b>
+<b>Project 3:<b> <b>Healthcare Reimbursement & Utilization Dashboard - In Progress...<b>
 
 <h2>📜 Certifications:</h2>
 
